@@ -1,1 +1,2 @@
 # HelloWorld
+VERSION 1
